@@ -1,0 +1,17 @@
+[9208:15112:0523/215541.557:WARNING:chrome_main_delegate.cc(589)] This is Chrome version 113.0.5672.127 (not a warning)
+[9208:15112:0523/215541.618:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[9208:15112:0523/215541.618:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[9208:15112:0523/215542.375:INFO:CONSOLE(1)] "Removing intrinsics.%ArrayPrototype%.toReversed", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.375:INFO:CONSOLE(1)] "Removing intrinsics.%ArrayPrototype%.toSorted", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.377:INFO:CONSOLE(1)] "Removing intrinsics.%ArrayPrototype%.toSpliced", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.378:INFO:CONSOLE(1)] "Removing intrinsics.%ArrayPrototype%.with", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.379:INFO:CONSOLE(1)] "Removing intrinsics.%ArrayPrototype%.@@unscopables.toReversed", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.379:INFO:CONSOLE(1)] "Removing intrinsics.%ArrayPrototype%.@@unscopables.toSorted", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.380:INFO:CONSOLE(1)] "Removing intrinsics.%ArrayPrototype%.@@unscopables.toSpliced", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.386:INFO:CONSOLE(1)] "Removing intrinsics.%StringPrototype%.isWellFormed", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.387:INFO:CONSOLE(1)] "Removing intrinsics.%StringPrototype%.toWellFormed", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.389:INFO:CONSOLE(1)] "Removing intrinsics.%RegExpPrototype%.unicodeSets", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.390:INFO:CONSOLE(1)] "Removing intrinsics.%TypedArrayPrototype%.toReversed", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.391:INFO:CONSOLE(1)] "Removing intrinsics.%TypedArrayPrototype%.toSorted", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215542.392:INFO:CONSOLE(1)] "Removing intrinsics.%TypedArrayPrototype%.with", source: chrome-extension://fklgflfcolgnmdhppldccoecjfemffed/lockdown-install.js (1)
+[9208:15112:0523/215543.640:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
